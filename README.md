@@ -129,4 +129,3 @@ Access the dashboard at http://localhost:8080.
 
 ## Note
 This is a simplified example. Implement actual data fetching and database interaction for production use.
-
