@@ -31,5 +31,4 @@ NAICS CODES: 541511, 541512, 541513, 541618 & 541619, 611420
 SIN(s): 54151S
 GSA SCHEDULE: 47QTCA19D005K
 POC: Randhir Singh | Randhir.Singh@jarwarellc.com | 703-298-6492
-![image](https://github.com/jarwarellc/GSA-SmartPay-47QRAB23Q0004/assets/42174347/c16d4d4e-b98f-4b4e-b231-38fd2238a746)
 
